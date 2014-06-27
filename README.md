@@ -1,15 +1,15 @@
 Project
 =======
 Members:
-  Phillip Ryan
-  Andrew Shidel
-  Andrew Nessel
+  Phillip Ryan, 
+  Andrew Shidel,
+  Andrew Nessel, 
 
 Brainstorm
 ==========
 
-Ideas for group name:
--AAP
+Ideas for group name: 
+  AAP,
 
-Ideas for project:
--
+Ideas for project: 
+  
