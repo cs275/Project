@@ -1,0 +1,26 @@
+Brainstorm
+==========
+
+Ideas for project: 
+
+-Group organization app
+  -Purpose: This would be an app that targets any kind of group or organization that requires logistics.
+  -Audience: Clubs, Group projects, friends, family, work team, etc
+  -Features (General idea here is any feature an organization could use)
+    -Messaging
+    -Tasks, ie todo and completed 
+    -Some kind of file sharing 
+      -Comments on shared information
+    -Event reminders, deadlines
+      -Authority given to certain users, ie presidents, managers..
+    -Announcements
+    -Purchase goods for group
+    -list can go on and on
+  -Would use all three objectives set by Augenblick
+    
+-Personal calender designed for drexel?
+  -Could pull class info from drexel 
+    -Make calender for each class which could interface with bblearn to add quiz, text and hw notifications
+      -user could also add assignments
+  -Other relavant class info?
+  -Would use all three objectives set by Augenblick
